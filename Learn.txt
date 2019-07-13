@@ -1,5 +1,4 @@
 Learning Git
 Line 2 Git
 Line third Git
-Line five Git
-Line six Git
+Line 4 Git
